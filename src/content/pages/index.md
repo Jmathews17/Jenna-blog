@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-A college student who wants to share the little joys of learning new things
+A college student who wants to share the little joys of learning new and random things
