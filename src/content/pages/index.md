@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Jenna Mathews
-tagline: Lifelong Learner
+title: Today I learned
+tagline: by Jenna Mathews
 featuredImage: /assets/steve-douglas-v2-lxjlcpbw-unsplash.jpg
 cta:
   ctaText: Learn more...
