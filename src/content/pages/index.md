@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jenna Mathews
 tagline: Lifelong Learner
-featuredImage: /assets/lotus.jpg
+featuredImage: /assets/steve-douglas-v2-lxjlcpbw-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
