@@ -11,6 +11,6 @@ Thus, it was an agonizing process to figure out what I wanted to do with my life
 
 Even so, was a tragic day indeed to declare a single course of study, feeling like I had to leave behind all my other passions...
 
-![Toys](/assets/aleksandr-ledogorov-g-jjy-yv_da-unsplash.jpg "Toys")
+![Dandelion](/assets/aleksandr-ledogorov-g-jjy-yv_da-unsplash.jpg "Dandelion")
 
 But I decided I didn't want to live a life of grueling academia only to work an unfulfilling job the rest of my life. I have long struggled with life under the suffocating cloud of depression-and I still do-but I want life to be an adventure! I want to fall in love with life again, and I realized that part of that love is in the fascination I have about so much of the world.
