@@ -13,6 +13,6 @@ Even so, it was a tragic day indeed to declare a single course of study, feeling
 
 ![Dandelion](/assets/aleksandr-ledogorov-g-jjy-yv_da-unsplash.jpg "Dandelion")
 
-But I decided I didn't want to live a life of grueling academia only to work an unfulfilling job the rest of my life. I have long struggled with life under the suffocating cloud of depression-and I still do-but I want life to be an adventure! 
+But I decided I didn't want to only live a life of grueling academia only to work an unfulfilling job the rest of my life. I have long struggled with life under the suffocating cloud of depression-and I still do-but I want life to be an adventure, even in the midst of my life as a university student.
 
 I want to fall in love with life again, and I realized that part of that love is in the fascination I have about so much of the world. So here's a collection of random thoughts, musings, and experiences I've had along the way.
