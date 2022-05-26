@@ -8,4 +8,4 @@ cta:
   ctaText: Learn more...
   ctaLink: /about
 ---
-A university student who is easily fascinated and chronically curious, I'm striving to embrace all that life has to offer; welcome to my collection of random thoughts, musings, and experiences I've had along the way :)
+A university student who is easily fascinated and chronically curious, I'm striving to embrace all that life has to offer; welcome to my collection of random stuff I've learned, thoughts, and experiences I've had along the way :)
